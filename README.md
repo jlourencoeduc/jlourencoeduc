@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**jlourencoeduc/jlourencoeduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Olá! Eu sou um estudante de Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Sou aluno do 1º ano do curso de Desenvolvimento de Sistemas na ETEC Padre Leôncio.
+
+💻 Tenho conhecimentos em:
+
+JavaScript
+PHP
+HTML
+
+📚 Já realizei cursos e desenvolvi projetos utilizando essas tecnologias pela Alura.
+
+🎨 Minha área de maior interesse é Front-end, onde gosto de criar interfaces modernas, funcionais e intuitivas.
+
+🚀 Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir minhas habilidades como desenvolvedor.
+
+🛠️ Tecnologias
+
+HTML JavaScript PHP
+
+🎯 Objetivo
+
+Continuar aprendendo, criar projetos e crescer profissionalmente na área de desenvolvimento Front-end.
