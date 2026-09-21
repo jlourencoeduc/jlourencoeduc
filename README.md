@@ -4,6 +4,7 @@
 Sou **Professor** e **Auxiliar de Docente** no Centro Paula Souza (CEETEPS), atuando na formação técnica e tecnológica nas unidades:
 * 🏫 **ETEC Padre Carlos Leôncio da Silva** (Lorena/SP)
 * 🏫 **ETEC Prof. Marcos Uchôas dos Santos Penchel** (Cachoeira Paulista/SP)
+* 
 
 ---
 
