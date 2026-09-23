@@ -1,5 +1,3 @@
-# Olá! Eu sou João Lourenço 👋
-
 ### 👨‍🏫 Educador & Profissional de Tecnologia
 Sou **Professor** e **Auxiliar de Docente** no Centro Paula Souza (CEETEPS), atuando na formação técnica e tecnológica nas unidades:
 * 🏫 **ETEC Padre Carlos Leôncio da Silva** (Lorena/SP)
